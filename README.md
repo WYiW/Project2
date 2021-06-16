@@ -1,1 +1,2 @@
 # Project2
+train用于训练网络结构的weight;predict输入一组image，生成的是预测的label;evaluation用来测val的froc
